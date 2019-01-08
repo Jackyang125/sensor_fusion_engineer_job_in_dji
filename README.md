@@ -114,4 +114,4 @@
 8. 英语CET6或同等水平以上，具有良好的英语阅读能力；
 9. 具备较强的学习、沟通表达能力和良好的团队合作精神；
 10. 具有无人机或者机器人开发经验、或者各类电子设计竞赛经验者优先。
-
+![image](https://github.com/libing64/sensor_fusion_engineer_job_in_dji/blob/master/1.jpg)
