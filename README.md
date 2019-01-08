@@ -40,6 +40,8 @@
 	6）网络信息融合与管理算法研究经验；
 
 	7）状态观测器设计与应用经验，如鲁棒观测器，最优观测器，多模型观测器等在真实系统上的实现。
+	
+![image](https://github.com/libing64/sensor_fusion_engineer_job_in_dji/blob/master/4.jpg)
 
 # 电机控制算法工程师
 
@@ -71,6 +73,8 @@
 4. 精通Matlab Simulink，精通C语言。有MBD或RCP开发经验者优先，熟悉TargetLink、Embeded Coder、dSpace MicroAutoBox使用者优先；
 5. 具有较强的分析、解决问题能力；对产品设计充满热情，责任心强 , 有电子设计大赛, 各类机器人比赛获奖者优先。
 
+![image](https://github.com/libing64/sensor_fusion_engineer_job_in_dji/blob/master/2.jpg)
+
 # 控制算法工程师
 职位类别： 研发类      工作城市： 深圳市
 
@@ -86,6 +90,8 @@
 2. 扎实的控制理论基础: 经典频域设计, 最优控制, 鲁棒控制, 非线性控制, 自适应控制；
 3. 丰富的建模和系统辨识经验；
 4. 专长于定量分析系统性能, 稳定性, 及鲁棒性。
+
+![image](https://github.com/libing64/sensor_fusion_engineer_job_in_dji/blob/master/3.jpg)
 
 # 嵌入式软件工程师
 
